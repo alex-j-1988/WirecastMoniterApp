@@ -1,0 +1,12 @@
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\bin\Debug\WirecastMoniterApp.exe.config
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\bin\Debug\WirecastMoniterApp.exe
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\bin\Debug\WirecastMoniterApp.pdb
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.csprojAssemblyReference.cache
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.Properties.Resources.resources
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.csproj.GenerateResource.cache
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.csproj.CoreCompileInputs.cache
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.exe
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.pdb
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.frmMain.resources
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\bin\Debug\Tulpep.NotificationWindow.dll
+F:\workspaces\WirecastMoniterApp\WirecastMoniterApp\obj\Debug\WirecastMoniterApp.csproj.CopyComplete
